@@ -1,0 +1,21 @@
+Unusual-Schema
+==============
+
+Extended schema for Team Fortress 2
+
+Features
+========
+
+* Download the latest copy of the TF2 schema from Valve
+* Save images of all the items in the game
+* Download copies of the possible rarities for each item from the Team Fortress 2 Wiki
+* Download images of painted variants and styles of items from the Team Fortress 2 Wiki
+* Support to automatically manipulate certain sections of the schema (such as toggling whether an item can be named or painted, or removing duplicate items)
+
+
+Usage
+=====
+
+Edit settings-sample.ini to use your Valve API key and configure paths.
+Configure any automatic edits to custom fit your project in data/edgeCases.dat.
+Run the script.
